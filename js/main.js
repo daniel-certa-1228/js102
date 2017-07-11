@@ -63,7 +63,7 @@ console.log("whatItem", whatItem);
 //******************************************************
 
 
-let evenOdds = [];
+let evenOdds = ["middle"];
 for (let i = 100; i >= 0; i--) {
 	console.log("i modulus", i % 3);
 
